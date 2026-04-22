@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary: #C6A87C;
+  --color-primary-dark: #A88B60;
+}
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #09090b;
+  }
+  .dark {
+    --background: #09090b;
+    --foreground: #fafafa;
+  }
+}

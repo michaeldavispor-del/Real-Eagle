@@ -1,0 +1,75 @@
+[
+  {
+    "id": "prop-1",
+    "title": "Luxury Penthouse in Downtown",
+    "price": 4500000,
+    "location": "Downtown Dubai, Dubai",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "size": 3500,
+    "description": "Experience unparalleled luxury in this breathtaking 4-bedroom penthouse located in the heart of Downtown Dubai. Boasting panoramic views of the Burj Khalifa and the Dubai Fountain, this property features premium finishes, floor-to-ceiling windows, and a private terrace.",
+    "type": "Penthouse"
+  },
+  {
+    "id": "prop-2",
+    "title": "Modern Waterfront Villa",
+    "price": 8200000,
+    "location": "Palm Jumeirah, Dubai",
+    "image": "https://images.unsplash.com/photo-1613490908592-fd5e48f43eb9?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "size": 5200,
+    "description": "A stunning modern villa situated on the exclusive Fronds of Palm Jumeirah. Enjoy direct beach access, a private infinity pool, and custom designer interiors. Perfect for families seeking a luxurious beachfront lifestyle.",
+    "type": "Villa"
+  },
+  {
+    "id": "prop-3",
+    "title": "Chic Apartment with Marina Views",
+    "price": 1850000,
+    "location": "Dubai Marina, Dubai",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1250,
+    "description": "This chic 2-bedroom apartment offers vibrant city living with spectacular Marina views. It includes a spacious balcony, state-of-the-art kitchen appliances, and access to premium building amenities like a gym and swimming pool.",
+    "type": "Apartment"
+  },
+  {
+    "id": "prop-4",
+    "title": "Elegant Golf Course Mansion",
+    "price": 12500000,
+    "location": "Emirates Hills, Dubai",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "size": 10500,
+    "description": "Nestled in the prestigious Emirates Hills, this elegant mansion overlooks the world-class golf course. With sprawling manicured gardens, a private cinema, and exquisite marble detailing throughout, it redefines opulence.",
+    "type": "Mansion"
+  },
+  {
+    "id": "prop-5",
+    "title": "Contemporary Townhouse",
+    "price": 2400000,
+    "location": "Jumeirah Village Circle, Dubai",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "size": 2800,
+    "description": "A bright and contemporary 3-bedroom townhouse featuring an open-plan layout, a private garden, and a rooftop terrace. Located in a family-friendly community with excellent parks and schools.",
+    "type": "Townhouse"
+  },
+  {
+    "id": "prop-6",
+    "title": "High-Rise Studio with Skyline View",
+    "price": 950000,
+    "location": "Business Bay, Dubai",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1de24244e4?q=80&w=800&auto=format&fit=crop",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 750,
+    "description": "Perfect for investors or young professionals, this stylish studio in Business Bay offers stunning skyline views, a smart home system, and easy access to major transportation links and retail options.",
+    "type": "Apartment"
+  }
+]
+
